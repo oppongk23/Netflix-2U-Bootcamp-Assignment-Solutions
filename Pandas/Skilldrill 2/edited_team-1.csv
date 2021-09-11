@@ -1,0 +1,17 @@
+,runner_name,run_no,run_value
+0,Sally,run_1,1.2
+1,James,run_1,2.3
+2,Rob,run_1,0.5
+3,Sean,run_1,2.0
+4,Sally,run_2,1.1
+5,James,run_2,2.6
+6,Rob,run_2,0.6
+7,Sean,run_2,2.0
+8,Sally,run_3,1.0
+9,James,run_3,2.6
+10,Rob,run_3,0.8
+11,Sean,run_3,2.0
+12,Sally,run_4,1.4
+13,James,run_4,2.9
+14,Rob,run_4,1.0
+15,Sean,run_4,2.1
